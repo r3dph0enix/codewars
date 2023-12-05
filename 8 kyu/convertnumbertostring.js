@@ -14,3 +14,16 @@ function numberToString(num) {
 }
 
 console.log(num);
+
+/*
+// второй вариант
+function numberToString(num) {
+    return String(num);
+}
+
+// третий вариант
+
+function numberToString(num) {
+    return ""+num;
+}
+*/
